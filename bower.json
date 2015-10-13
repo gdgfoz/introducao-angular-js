@@ -1,0 +1,32 @@
+{
+  "name": "AngularJS - GDG Foz",
+  "version": "0.0.1",
+  "authors": [
+    "Henrique Lobato Zago<lobato.zago@gmail.com >"
+  ],
+  "description": "Código de exemplo, utilizado na apresentação da Palestra de AngularJS no 1° Encontro do GDG Foz",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "angularjs",
+    "gdg",
+    "gdgfoz"
+  ],
+  "license": "MIT",
+  "homepage": "https://plus.google.com/104317116210687480523",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.7",
+    "angular-material": "~0.11.3",
+    "bower": "*",
+    "install": "~1.0.4",
+    "angular-i18n": "~1.4.7"
+  }
+}
